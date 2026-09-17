@@ -76,6 +76,4 @@ The project is intentionally lightweight and focused on a narrow set of smartpho
 
 Potential next steps include more aggressive class balancing, comparison with additional sensor feature sets, evaluation of alternative 1D CNN architectures, and benchmarking the TFLite model on-device for latency and memory usage.
 
-## Authors
 
-Author information is not explicitly documented in the repository files. The notebook itself is the primary project artifact and contains the implementation workflow and evaluation results.
