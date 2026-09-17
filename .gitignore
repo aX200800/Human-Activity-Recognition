@@ -1,0 +1,37 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+ENV/
+env/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and generated artifacts
+*.csv
+*.tsv
+*.parquet
+*.zip
+*.tflite
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Environment and editor files
+.env
+.env.*
+.DS_Store
+.vscode/
+
+# Local outputs
+baseline_results.csv
+wisdm_tinycnn_int8.tflite
+
+# OS files
+Thumbs.db
